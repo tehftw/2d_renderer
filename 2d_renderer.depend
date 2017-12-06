@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1512573204 source:c:\users\user\documents\personalprojects\programming\cpp\2d_renderer\src\r2vector.cpp
+	"R2Vector.h"
+
+1512573213 c:\users\user\documents\personalprojects\programming\cpp\2d_renderer\include\r2vector.h
+
+1512584117 source:c:\users\user\documents\personalprojects\programming\cpp\2d_renderer\main.cpp
+	<iostream>
+	<vector>
+	"R2Vector.h"
+	"tehftw_r2renderfunctions.h"
+
+1512585209 c:\users\user\documents\personalprojects\programming\cpp\2d_renderer\include\tehftw_r2renderfunctions.h
+	<iostream>
+	<vector>
+	"R2Vector.h"
+
+1512585515 source:c:\users\user\documents\personalprojects\programming\cpp\2d_renderer\src\tehftw_r2renderfunctions.cpp
+	"tehftw_r2renderfunctions.h"
+
